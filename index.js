@@ -1,3 +1,8 @@
+
+let date = new Date()
+let yearChanger = document.querySelector("#yearChanger");
+yearChanger.innerText = date.getFullYear()
+
 let value1 = document.getElementById("value1");
 let count1 = 0;
 
