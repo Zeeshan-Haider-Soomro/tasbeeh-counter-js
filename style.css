@@ -16,4 +16,5 @@ marquee {
     align-items: center;
     background-color: black;
     color: aliceblue;
+    margin-top: 10px;
 }
